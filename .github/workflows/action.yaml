@@ -22,5 +22,5 @@ jobs:
         git config user.name gurmanbh
         git config user.email gurmabh@gmail.com
         git add .
-        git commit --allow-empty -m "Database updated"
+        git commit --allow-empty -m "Latest downloaded"
         git push origin master
